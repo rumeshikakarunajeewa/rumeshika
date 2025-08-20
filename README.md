@@ -16,7 +16,7 @@ Other Interests: Artificial Intelligence, Machine Learning, Business Intelligenc
 
 🔹 Study Buddy Chatbot – An AI-powered chatbot designed to assist students with personalized learning.
 
-🔹 shimmer's compant inventory system 
+🔹 shimmer's company  inventory system 
 
 🙋 About Me
 
